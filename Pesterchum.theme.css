@@ -36,7 +36,7 @@
 
 }
 .theme-dark {
-	--background-primary: #191919;
+	--background-primary: #282b30;
 	--background-secondary: #232527;
 	--background-mentioned: rgba(250,166,26,0.15);
 	--background-mentioned-hover: rgba(250,166,26,0.18);
